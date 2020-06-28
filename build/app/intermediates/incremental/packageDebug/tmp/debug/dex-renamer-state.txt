@@ -1,0 +1,4 @@
+#Sun Jun 28 18:12:30 BRT 2020
+base.0=/home/lucas/Documentos/GrowDev/flutter/exercicios/my_first_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
