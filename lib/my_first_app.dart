@@ -15,7 +15,6 @@ class _FirstAppState extends State<FirstApp> {
 
   void _clicklLong() {
     print('cliclou long');
-
     _color = _randomColor.randomColor();
     setState(() {
       _calc = 1;
